@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "TemplateStudioForWinUI (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "TemplateStudioForWinUI (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
